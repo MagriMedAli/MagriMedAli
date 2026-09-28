@@ -4,7 +4,7 @@
 
 ## Projects
 
-**🤖 [FlowDesk: AI Sales & Support Agent]([YOUR_FLOWDESK_REPO_URL](https://www.loom.com/share/b1de00010cc94f4a80a44239f6517fbd))** · [▶ Watch demo](YOUR_LOOM_LINK)
+**🤖 [FlowDesk: AI Sales & Support Agent]([YOUR_FLOWDESK_REPO_URL](https://www.loom.com/share/b1de00010cc94f4a80a44239f6517fbd))** · [▶ Watch demo]([YOUR_LOOM_LINK](https://www.loom.com/share/b1de00010cc94f4a80a44239f6517fbd))
 A chatbot that answers product and pricing questions from a company's own docs, spots buyers, collects their details over several messages, confirms them, then creates the contact and deal in HubSpot automatically.
 - Answers only from the knowledge base (RAG), so it doesn't invent prices
 - Validates email and phone, and asks for confirmation before touching the CRM
