@@ -4,7 +4,7 @@
 
 ## Projects
 
-**🤖 [FlowDesk: AI Sales & Support Agent](YOUR_FLOWDESK_REPO_URL)** · [▶ Watch demo](YOUR_LOOM_LINK)
+**🤖 [FlowDesk: AI Sales & Support Agent]([YOUR_FLOWDESK_REPO_URL](https://www.loom.com/share/b1de00010cc94f4a80a44239f6517fbd))** · [▶ Watch demo](YOUR_LOOM_LINK)
 A chatbot that answers product and pricing questions from a company's own docs, spots buyers, collects their details over several messages, confirms them, then creates the contact and deal in HubSpot automatically.
 - Answers only from the knowledge base (RAG), so it doesn't invent prices
 - Validates email and phone, and asks for confirmation before touching the CRM
@@ -25,6 +25,6 @@ Customers order on WhatsApp. The system understands the message, saves the order
 `n8n` `Python` `FastAPI` `PostgreSQL` `Pinecone` `HubSpot` `OpenAI / Gemini API` `WhatsApp Cloud API`
 
 ## Work with me
-🌐 Portfolio: https://portfolio-azure-xi-ox4nll6zx0.vercel.app/)
-📩 Email: meddali.magri@gmail.com
-💼 LinkedIn: www.linkedin.com/in/mohamed-ali-magri-8639ba436
+🌐 [Portfolio](https://portfolio-azure-xi-ox4nll6zx0.vercel.app/)
+📩 [Email](meddali.magri@gmail.com)
+💼 [LinkedIn](www.linkedin.com/in/mohamed-ali-magri-8639ba436)
