@@ -22,7 +22,7 @@ Customers order on WhatsApp. The system understands the message, saves the order
 `n8n · Gemini · FastAPI · PostgreSQL · WhatsApp Cloud API`
 
 ## Tools I work with
-`n8n` `Python` `FastAPI` `PostgreSQL` `Pinecone` `HubSpot` `OpenAI / Gemini API` `WhatsApp Cloud API`
+`n8n` `Python` `FastAPI` `PostgreSQL` `Pinecone` `HubSpot` `OpenAI / Gemini API` `WhatsApp Cloud API` `claude code` `github copilot` 
 
 ## Work with me
 🌐 [Portfolio](https://portfolio-azure-xi-ox4nll6zx0.vercel.app/)
